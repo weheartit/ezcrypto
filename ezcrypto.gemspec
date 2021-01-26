@@ -5,7 +5,6 @@ Gem::Specification.new do |s|
   s.email    = "pelle@stakeventures.com"
   s.homepage = "http://ezcrypto.rubyforge.org"
   s.description = "EzCrypto is an easy to use wrapper around the poorly documented OpenSSL ruby library."
-  s.has_rdoc = true
   s.authors  = ["Pelle Braendgaard", "Micah Wedemeyer"]
   s.files = [  "rakefile",
                 "README.rdoc",
